@@ -1,0 +1,20 @@
+# Arquivos de objetos e executáveis do C
+*.o
+*.a
+*.so
+*.out
+BatalhaNaval
+
+# Diretórios e arquivos de build do CMake
+# O diretório 'build/' é onde o CMake gera os arquivos de compilação
+/build/
+
+# Outros arquivos gerados por editores e IDEs
+# Ignora arquivos de configuração de editores como VS Code
+.vscode/
+
+# Ignora arquivos de sistema do macOS
+.DS_Store
+
+# Ignora arquivos temporários do sistema operacional
+*~
